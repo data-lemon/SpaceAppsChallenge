@@ -18,3 +18,12 @@ The datasets used for analysis were:
 
 3. Bing Dataset of Coronavirus history
 
+4. Air Traffic data from UK
+
+[Landsat Data](https://landsat.gsfc.nasa.gov/nasa-webinar-on-mapping-global-urbanization-with-landsat-and-high-resolution-reference-data-held-nov-14/)
+
+[GPW Population Density](https://earthdata.nasa.gov/eosdis/daacs/sedac)
+
+[Air Traffic Data](https://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-2020-03/)
+
+[Bing Coronavirus Dataset](https://www.bing.com/covid/local/unitedkingdom)
