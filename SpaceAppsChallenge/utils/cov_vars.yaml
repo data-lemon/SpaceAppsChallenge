@@ -1,0 +1,9 @@
+#input file to hotspot.py
+
+datfile:
+    - "../Data/raw/Bing-COVID19-Data.csv"
+    
+region:
+    - "United Kingdom"
+
+
